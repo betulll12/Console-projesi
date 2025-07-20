@@ -1,5 +1,4 @@
 # Console-projesi
-# vektorelphyton99
 # proje-1
 ## ekran görüntüsü
 
