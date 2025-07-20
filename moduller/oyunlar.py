@@ -11,7 +11,7 @@ secim = input("Bir oyun seçin (1/2/3): ")
 # 1️⃣ Sayı Tahmin Etme
 if secim == "1":
     print("Sayı Tahmin Oyununa Hoş Geldin!")
-    print("1 ile 5 arasında bir sayı tuttum, tahmin et.")
+    print("1 ile 10 arasında bir sayı tuttum, tahmin et.")
     sayi = "3"
     tahmin = input("Tahminin nedir? ")
 
