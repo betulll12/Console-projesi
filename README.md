@@ -3,4 +3,4 @@
 ## ekran görüntüsü
 
 
-<img height="150" src="resim/resim1.png">
+<img height="150" src="resim1/resim1.png">
