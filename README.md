@@ -3,6 +3,7 @@
 ## ekran görüntüsü
 
 #ANA MENÜ
+-----------
 <img height="150" src="resim/resim1.png">
 ********************************************
 #HESAP MAKİNESİ
