@@ -4,3 +4,4 @@
 
 
 <img height="150" src="resim/resim1.png">
+<img height="150" src="resim/resimA.png">
