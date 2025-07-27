@@ -77,4 +77,3 @@
 <img height="150" src="resim/resimJ.png">
 <p>Buradan da çıkış yapabilirsiniz.<p>
 --------------------------------------------
-
