@@ -1,5 +1,8 @@
 # Console-projesi
 # proje-1
+# PHYTON
+<img height="150" src="resim/PHYTON.png">
+
 #VİDEO
 --------
 
@@ -9,25 +12,25 @@
 -----------
 <img height="150" src="resim/resim1.png">
 <p> Burada hesaplama menüleri ve oyunlar menüleri bulunmaktadır.<p>
---------------------------------------------
+-------------------------------------------
 
 #HESAP MAKİNESİ
 ----------------
 <img height="150" src="resim/resimA.png">
 <p>Burada toplama,çıkarma ,çarpma, bölme işlemlerinden herhangi birisini yapabilirsiniz.<p>
---------------------------------------------
+------------------------------------------
 
 #OYUNLAR
 ----------
 <img height="150" src="resim/resimB.png">
 <p>Burada sayı tahmin etme, kelime tahmin etme ve taş kağıt makas olarak 3 adet oyunumuz var, istediğinizi seçip oynayabilirsiniz.<p>
---------------------------------------------
+------------------------------------------
 
 #ŞEKİL ÇİZDİRME
 ----------------
 <img height="150" src="resim/resimC.png">
 <p>Burada üçgen ve kare şekillerinden istediğinizi çizdirebilirsiniz.<p>
---------------------------------------------
+-------------------------------------------
 
 #NOT HESAPLAMA
 ---------------
