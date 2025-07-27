@@ -3,6 +3,10 @@
 # PHYTON
 <img height="150" src="resim/PHYTON.png">
 
+#PROJE AÇIKLAMASI
+-------------------
+<P>Bu projede 1 den 10 a kadar hesap makinesi,oyunlar,şekil çizdirme,not hesaplama,yaş hesaplama,vücut kitle endeksi hesaplama,zam,alan hacim modülleri bulunmaktadır. Bu modüllerden istediğiniz birisini seçip hesaplama yapabilir veya oyun oynayabilirsiniz.Projede kullanılan kodlar mevcuttur.Bu proje phyton da konuları daha iyi kavramak ve uygulama için yapılmıştır.<p>
+
 #VİDEO
 --------
 
