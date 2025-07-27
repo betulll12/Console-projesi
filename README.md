@@ -1,6 +1,9 @@
 # Console-projesi
 # proje-1
-## ekran görüntüsü
+#VİDEO
+--------
+
+<P>Projeyi anlatan videoya yukarıdaki linke tıklayınız.<p>
 
 #ANA MENÜ
 -----------
