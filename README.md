@@ -47,7 +47,7 @@
 #ZAM HESAPLAMA
 ---------------
 <img height="150" src="resim/resimG.png">
-<p>Burada şu anki maaşınızı ve yapılacak zam oranını girerek maaşınızın zamlı halini hesaplayabilirsiniz.<p>
+<p>Burada şu anki maaşınızı ve yapılacak zam oranını girerek maaşınızın zamlı halini öğrenebilirsiniz.<p>
 --------------------------------------------
 
 #ALAN HESAPLAMA
@@ -59,5 +59,5 @@
 #HACİM HESAPLAMA
 -----------------
 <img height="150" src="resim/resimI.png">
-<p>Burada dikdörtgen przma ve küpten birini seçip istediğiniz değerleri vererek hacim hesaplayabilirsiniz.<p>
+<p>Burada dikdörtgen prizma ve küpten birini seçip istediğiniz değerleri vererek hacim hesaplayabilirsiniz.<p>
 --------------------------------------------
