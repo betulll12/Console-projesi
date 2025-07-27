@@ -6,7 +6,7 @@
 #VİDEO
 --------
 
-<P>Projeyi anlatan videoya yukarıdaki linke tıklayınız.<p>
+<P>Projeyi anlatan videoya ulaşmak için yukarıdaki linke tıklayınız.<p>
 
 #ANA MENÜ
 -----------
