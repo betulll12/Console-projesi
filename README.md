@@ -11,7 +11,7 @@
 #ANA MENÜ
 -----------
 <img height="150" src="resim/resim1.png">
-<p> Burada hesaplama menüleri ve oyunlar menüleri bulunmaktadır.<p>
+<p> Burada hesaplama menüleri ve oyunlar menüleri bulunmaktadır. 1-10 arası seçim yapabilirsiniz.<p>
 -------------------------------------------
 
 #HESAP MAKİNESİ
