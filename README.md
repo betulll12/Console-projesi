@@ -75,5 +75,5 @@
 #10.ÇIKIŞ
 -----------------
 <img height="150" src="resim/resimJ.png">
-<p>Buradan da çıkış yapabilirsiniz.<p>
+<p>Ana menüde 10 yazarsanız çıkış yapabilirsiniz.<p>
 --------------------------------------------
