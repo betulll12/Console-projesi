@@ -9,8 +9,8 @@
 
 #VİDEO
 --------
-<a href="https://drive.google.com/file/d/1Z9sLZ9oGRjoH65gWo7FPbYg-TjNk3JJy/view?usp=sharing"></a>
-<P>Projeyi anlatan videoya ulaşmak için yukarıdaki linke tıklayınız.<p>
+<a href="https://drive.google.com/file/d/1Z9sLZ9oGRjoH65gWo7FPbYg-TjNk3JJy/view?usp=sharing">
+<P>Projeyi anlatan videoya ulaşmak için yukarıdaki linke tıklayınız.<p></a>
 
 #ANA MENÜ
 -----------
